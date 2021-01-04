@@ -1,0 +1,35 @@
+.sample1{
+    display:flex;
+    justify-content:space-around;
+    border:20px double pink;
+    border:20px dotted pink;
+    color: violet;
+    background-color:lightblue;
+    padding:10px;
+    margin: 10px;
+  font-size:30px;
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+.sample2{
+    display:flex;
+    justify-content:space-between;
+    border:20px double violet;
+    color: red;
+    background-color:pink;
+    padding:10px;
+    margin: 10px;
+    font-size:30px;
+      font-family: 'Kaushan Script', cursive;
+}
+.sample3{
+    display:flex;
+    justify-content:center;
+    border:20px double cyan;
+    border:20px dashed cyan;
+    color: blue;
+    background-color:violet;
+    padding:10px;
+    margin: 10px;
+    font-size:30px;
+     font-family: 'Amatic SC', cursive;
+}
